@@ -1,24 +1,22 @@
-Lesson/Module Title
+SubscoresScatterPlot on ChemCompute
 ===================
 
-Write a short description (2-3 sentences) of your lesson here. The `main`
-branch of your lesson repository is the most public-facing branch, which will
-primarily be accessed by prospective adopting instructors as they explore the
-open educational resources (OER) available on the ACT-CMS portal. Minimally,
-you should address the lesson's purpose, intended audience (course & student
-level), and time required.
+The goal of this lesson is to have students use a Jupyter notebook and Chemcompute.
+This can serve as a first point of use for these resources and requires no adjustment to nor generation of code. 
+They will use their existing data (from Virtual Screening 1 lab with docking scores and compound names)
+If not existing data, a sample data set (bestranking.lst) is provided in the repository. 
+Students using this lesson are first and second year undergraduates in a CURE (course based undergraduate research-experience).
 
-## Lesson/Module Contents
+Time Required: about 20-30 minutes if connecting to Chemcomputer works smoothly. 
+
+## Lesson Contents
 
 Provide a brief overview of the structure of your module or lesson as an
 enumerated list below:
 
-1. Title of first lesson in module
-    * Directory: `01_first-lesson`
-    * Description: Extremely brief description of lesson content
-    * Time: 2-3 hours
-2. Title of second lesson in module (if present)
-    * Directory: `02_second-lesson`
-    * Description: Extremely brief description of lesson content
-    * Time: 2-3 hours
+1. SubscoresScatterPlot
+    * Directory: `virtual-screening-analysis'
+    * Description: Generate scatter plots and best fit lines from docking data
+    * Time: 20-30 minutes
+
 
