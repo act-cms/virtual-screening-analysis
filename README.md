@@ -33,6 +33,8 @@ Time Required: about 20-30 minutes if connecting to Chemcompute works smoothly.
 2. Login >> Accept \& Confirm >> Login using your Institutional Email >> search for your school's name e.g. 'The University of Texas at Austin > enter your id
 
 3. <a href="https://chemcompute.org/jupyterhub_internal/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fact-cms%2Fvirtual-screening-analysis%2F&urlpath=tree%2F%2F&branch=main" target="_blank">Open this link </a>
+<a href="#" onclick="window.open('https://chemcompute.org/jupyterhub_internal/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fact-cms%2Fvirtual-screening-analysis%2F&urlpath=tree%2F%2F&branch=main', '_blank'); return false;">Open this link</a>
+
  - If you get an error, log out of Chemcompute/close it and re-open it, then click on the link above again.
 
 4. In Chemcompute, on top line, click on Jupyter >> Use Jupyter notebook >> CPU Node >> Jupyter notebook (vs. jupyter lab) >> Python >> Select a premade image (just use the default one, latest usually) >> Start
